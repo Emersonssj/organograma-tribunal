@@ -1,4 +1,3 @@
-#nome-do-projeto
 # OrganogramaInstitucional 
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
@@ -13,6 +12,8 @@
 > O Secretário Geral da Presidência solicitar modernizar a apresentação do nosso organograma para na transição os novos presidentes terem uma visão geral da área administrativa.
 > Uma das ideias consiste em clicar no nome da SGP, por exemplo, e abrir uma página com as unidades subordinadas, como se estivesse dando um zoom, ou expandindo as informações a partir do clique
 
+O organograma foi feito com o uso de Javascript, HTML e CSS, sendo usado a biblioteca orgchart do seguinte link:
+https://github.com/dabeng/OrgChart
 
 ## 💻 Pré-requisitos
 

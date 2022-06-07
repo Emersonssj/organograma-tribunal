@@ -9,7 +9,6 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-<img src="exemplo-image.png" alt="exemplo imagem">
 
 > O Secretário Geral da Presidência solicitar modernizar a apresentação do nosso organograma para na transição os novos presidentes terem uma visão geral da área administrativa.
 > Uma das ideias consiste em clicar no nome da SGP, por exemplo, e abrir uma página com as unidades subordinadas, como se estivesse dando um zoom, ou expandindo as informações a partir do clique
@@ -45,8 +44,6 @@ pra usar <nome_do_projeto>, siga estas etapas:
 1) Após seguir os passos anteriores, acesse o endereço no seguinte formato:  localhost:8085/OrganogramaInstitucional (A porta pode mudar de acordo com sua configuração)
 ```
 
-## 📫 Contribuindo para OrganogramaInstitucional
-<!---Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado--->
 
 ## 🤝 Colaboradores
 
